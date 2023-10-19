@@ -1,3 +1,6 @@
+<img align="right" alt="coding" width="500" src="prototype.png" width="500" height="500" >
+
+
 # SpineHealth
 This proposed application aims to address the challenge of scoliosis among young people today, a condition characterized by a lateral curvature of the spine typically diagnosed during adolescence. Scoliosis can manifest in individuals with conditions like cerebral palsy and muscular dystrophy. This initiative aligns with 🌱**target 3.4 — _By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment, promoting mental health and  well-being._** The focus is on prevention, treatment, and the promotion of mental health and well-being in order to contribute to this SDG 3 target.
 
