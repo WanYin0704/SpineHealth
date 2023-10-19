@@ -9,9 +9,10 @@ This proposed application aims to address the challenge of scoliosis among young
 - Track back the history of the measurement of their degree of spinal curvature
 - Scoliometer to measure the degree of curvature of the users’ spine
 
+
 The development of this application was guided by the principles and requirements outlined in the Human Computer Interaction (HCI) course. The HCI course likely provided insights into creating an interface that enhances the interaction between users and the system, ensuring usability, accessibility, and overall user satisfaction. By incorporating HCI principles, the application aims to deliver an effective and user-friendly experience, taking into consideration the needs and preferences of the intended users.
 
-#### Feel free to check out the project links below 🤘:
+#### 🤘Feel free to check out the project links below:
 - [Low-fidelity prototype presentation link](https://www.figma.com/proto/ixVhYr8hxoyeHe6lq2k3z3/HCI-Project-Prototype?node-id=6%3A45&scaling=scale-down&page-id=0%3A1&starting-point-node-id=6%3A45)
 - [Project video](https://www.youtube.com/watch?v=a3k0dmp5k98)
 
